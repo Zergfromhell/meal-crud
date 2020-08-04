@@ -6,6 +6,8 @@
 
     <display-name>Topjava</display-name>
 
+    <request-character-encoding>UTF-8</request-character-encoding>
+
     <context-param>
         <param-name>spring.profiles.default</param-name>
         <param-value>postgres,datajpa</param-value>
