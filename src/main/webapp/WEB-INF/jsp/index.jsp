@@ -16,6 +16,5 @@
         <button type="submit"><spring:message code="common.select"/></button>
     </form>
 </section>
-<jsp:include page="fragments/footer.jsp"/>
 </body>
 </html>
